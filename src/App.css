@@ -1,7 +1,21 @@
 .App {
   text-align: center;
 }
+img {
 
+}
+.prodImg{
+
+  width: 200px;
+    height: 100px;
+}
+.products{
+  display: flex;
+  margin: 100px;
+  justify-content: flex-start;
+  padding: 20px;
+ 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
